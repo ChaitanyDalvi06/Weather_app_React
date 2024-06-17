@@ -9,4 +9,11 @@ Currently, two official plugins are available:
 
 
 
+OutPut Image :-
+
 ![image](https://github.com/ChaitanyDalvi06/Weather_app_React/assets/142775927/424ef2b9-50c6-486c-9988-66402db36f1e)
+
+
+
+![image](https://github.com/ChaitanyDalvi06/Weather_app_React/assets/142775927/42db698d-3ab5-4fe5-b688-ac3a25e059ae)
+
